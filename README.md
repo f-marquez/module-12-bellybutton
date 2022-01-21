@@ -32,5 +32,5 @@ A Gauge Chart that displays the weekly washing frequency's value, and display th
 
 #Deliverable 4: 
 
-Customize the Dashboard
+Customized Dashboard
 
