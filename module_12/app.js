@@ -90,7 +90,6 @@ d3.json("data/samples.json").then((importedData) => {
 		// Display each key-value pair from the metadata JSON object
 		Object.entries(demoDefault).forEach(
 			([key, value]) => d3.select("#sample-metadata")
-			
 			.append("p").text(`${key.toUpperCase()}: ${value}`));
 
 		// ADVANCED CHALLENGE: GAUGE CHART
