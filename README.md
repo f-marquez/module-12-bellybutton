@@ -9,12 +9,13 @@ Roza has a partially completed dashboard that she needs to finish. She has a com
 This new assignment consists of four technical analysis deliverables. 
 
 **Deliverable 1: Horizontal Bar Chart** <br>
-**Deliverable 2: Bubble Chart**
-**Deliverable 3: Gauge Chart**
-**Deliverable 4: Customized the Dashboard**
+**Deliverable 2: Bubble Chart** <br>
+**Deliverable 3: Gauge Chart**<br>
+**Deliverable 4: Customized the Dashboard**<br>
 
 
 #Deliverable 1: 
+
 Horizontal Bar Chart to display the top 10 bacterial species (OTUs) when an individual’s ID is selected from the dropdown menu on the webpage
 
 #Deliverable 2:
