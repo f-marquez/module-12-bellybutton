@@ -8,7 +8,7 @@ Roza has a partially completed dashboard that she needs to finish. She has a com
 #Deliverables Overview
 This new assignment consists of four technical analysis deliverables. 
 
-**Deliverable 1: Horizontal Bar Chart**
+**Deliverable 1: Horizontal Bar Chart** <br>
 **Deliverable 2: Bubble Chart**
 **Deliverable 3: Gauge Chart**
 **Deliverable 4: Customized the Dashboard**
